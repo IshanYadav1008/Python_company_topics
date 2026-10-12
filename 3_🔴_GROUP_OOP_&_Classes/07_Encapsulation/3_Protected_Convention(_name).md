@@ -54,7 +54,7 @@ print(s._age)
 Toh phir _age likhne ka fayda kya hai ?
 ---------------------------------------
 Fayda ye hai ki doosre programmers ko pata chalta hai ki _age class 
-ka internal detail hai, jise bina zaroorat directly use ya modify 
+ka internal detail hai, jise bina zarurat directly use ya modify 
 nahi karna chahiye.
 
 ===============================================================================
@@ -84,14 +84,14 @@ Output:
 
 Isliye yaad rakho:
 ------------------
-. age — normal public naming.
+.  age — normal public naming.
 . _age — internal use ka signal.
 . _age likhne se value store karne ka tareeka nahi badalta.
 . _age likhne se Python automatic access restriction nahi lagata.
 
 ===============================================================================
 
-4. Protected Convention methods par bhi apply hota hai
+4. Protected Convention, methods par bhi apply hota hai
 
 * Abhi tak humne attribute dekha. Method ke naam ke aage bhi single 
   underscore laga sakte hain.

@@ -20,7 +20,7 @@ naam mein badal deta hai. Isliye s.__marks se directly access nahi
 kar sakte.
 
 Dhyan rahe: Python ise completely private nahi banata, lekin direct 
-access ko mushkil banata hai.
+            access ko mushkil banata hai.
 
 ================================================================================
 
@@ -86,8 +86,8 @@ __marks → Private-style + name mangling
 ================================================================================
 
 Q) bhale Python __marks ko internally _Student__marks naam se store karta hai. 
-   lekin jab s._Student__marks likhne par value mil hi jaati hai, toh file 
-   private hone ka kya mtlb nikla access toh ho hi gaya naa phir bhi
+   lekin jab s._Student__marks likhne par value mil hi jaati hai, toh fir 
+   private hone ka kya mtlb nikla access toh ho hi gaya naa phir bhi ??
 
 --------------------------------------------------------------------------------
 
