@@ -137,7 +137,8 @@ Aisa kyun hua ?
 
 Ab ye example dekho:
 --------------------
-print(str(s1))print(repr(s1))
+print(str(s1))
+print(repr(s1))
 
 Output:
 -------
