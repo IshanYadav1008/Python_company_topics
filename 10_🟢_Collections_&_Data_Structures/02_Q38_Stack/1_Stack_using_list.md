@@ -156,7 +156,6 @@ item = stack.pop()
 
 print("Popped element:", item)
 print("Stack after pop:", stack)
-```
 
 Output:
 -------
