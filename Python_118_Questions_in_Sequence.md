@@ -406,7 +406,7 @@ Q33 — RESTful API using Flask
 
 55. SQLite
 Q101 — sqlite3
-
+     
 56. SQLAlchemy
 Q105 — Optimize DB queries using SQLAlchemy
 
